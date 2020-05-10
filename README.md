@@ -1,3 +1,3 @@
 # Students' Academic Performance
 
-Datasets can be found here: https://www.kaggle.com/aljarah/xAPI-Edu-Data
+Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/Student+Performance
